@@ -36,7 +36,7 @@ The goals of this challenge are to:
 
 
 
-### Movies Table Query.  
+### Movies Table Query 
 
 
 Below is the table for movies query. This table contains 6052 rows of movies metadata.
